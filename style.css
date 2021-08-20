@@ -16,6 +16,7 @@ footer .row {
 h1 {
   font-weight: 700;
   margin: 0;
+
 }
 
 nav {
@@ -33,7 +34,7 @@ a {
   align-items: center;
   background-image: url('https://content.codecademy.com/projects/personal_portfolio/background.jpeg');
   background-size: cover;
-  color: #ffffff;
+  color: white;
   height: 400px;
 }
 
@@ -41,12 +42,12 @@ a {
   font-size: 60px;
   font-weight: 700;
   margin: 0;
-  color: #fff;
+  color: black;
 }
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  color: #fff;
+  color: black;
 }
 
 section .row img {
